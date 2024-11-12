@@ -1,5 +1,5 @@
 # Glyce
-Glyce: Effortless Sharing Across Every Network. 🔗
+**Glyce: Effortless Sharing Across Every Network.** 🔗
 
 Glyce는 글이나 컨텐츠를 여러 소셜 네트워크 서비스에 쉽고 빠르게 퍼뜨리는 서비스를 의미합니다.
 
